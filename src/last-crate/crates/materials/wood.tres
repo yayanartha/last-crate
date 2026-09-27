@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MaterialData" format=3 uid="uid://dknl7ovhjvvdb"]
+
+[ext_resource type="Script" uid="uid://bx2in2pyj1kpy" path="res://crates/material_data.gd" id="1_y00o5"]
+
+[resource]
+script = ExtResource("1_y00o5")
+id = &"wood"
+code = "W"
+display_name = "Wood"
+weight = 1.0
+metadata/_custom_type_script = "uid://bx2in2pyj1kpy"
